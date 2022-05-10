@@ -1,0 +1,7 @@
+{
+  "name": "digitaldope",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
